@@ -1,0 +1,1 @@
+# Hosana_Guimaraes_exerciciostpsi0226
