@@ -19,7 +19,7 @@ if sum(perfeito) == numero:
     print(f"Divisores : {perfeito} == {numero}")
     
 else:
-    print(f"O número {numero} não é perfeito\n8")
+    print(f"O número {numero} não é perfeito\n")
     print("CURIOSIDADE: entre 1 e 1000 apenas 2 números são perfeitos, adivinhe...")
   
    
