@@ -23,19 +23,19 @@ def check_string(n):
         codigo = ord(letter)
 
         if espera_maiuscula:
-            if 65 <= codigo <= 90:        # é maiúscula → válido
+            if 65 <= codigo <= 90:        # é maiúscula  = válido
                 espera_maiuscula = False
-            else:                          # devia ser maiúscula mas não é → inválido
+            else:                          # devia ser maiúscula mas não é = inválido
                 print("Nome inválido: contém caracteres não permitidos.")
                 return False
 
-        elif codigo == 32:                 # é espaço → ativa flag
+        elif codigo == 32:                 # é espaço = ativa flag
             espera_maiuscula = True
 
-        elif 97 <= codigo <= 122:          # é minúscula → válido
+        elif 97 <= codigo <= 122:          # é minúscula = válido
             pass
 
-        else:                              # nada do anterior → inválido
+        else:                              # nada do anterior = inválido
             print("Nome inválido: contém caracteres não permitidos.")
             return False
 
