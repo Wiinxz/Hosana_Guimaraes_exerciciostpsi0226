@@ -1,6 +1,6 @@
 # Hosana_Guimaraes_exerciciostpsi0226
 
-# 🐍 Exercícios de Python — CET Programação e Sistemas de Informação
+#  Exercícios de Python — CET Programação e Sistemas de Informação
 
 Repositório com exercícios práticos de Python desenvolvidos durante
 o Curso de Especialização Tecnológica (CET) de Programação e
@@ -92,4 +92,4 @@ de ordenação, lógica de programação e manipulação da tabela ASCII.
 **Hosana Guimarães**
 CET — Programação e Sistemas de Informação
 
-"Estuda muito, erra mais, aprende sempre. Happy coding!(: | :) "
+"Estuda muito, erra mais, aprende sempre :) "
